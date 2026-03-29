@@ -1,8 +1,8 @@
 # Financial Time Series Forecasting using CNN
 
 ## Student Details
-- Name: YOUR NAME
-- Registration Number: YOUR REG NO
+- Name: Asni K
+- Registration Number: TCR24CS016
 
 ---
 
